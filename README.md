@@ -8,27 +8,36 @@ Me he formado como desarrollador web por 2 años y he trabajado como mentor en d
 He creado mis propios proyectos y participando en otros, los cuales comparto en mi GitHub personal.
 
 Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.
-</br></br>
+</br>
 <div align="center" >
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
-</br></br>
+</br>
 
 ## Mi proyección a futuro 
 Me preparo poco a poco para liderar equipos de programadores manteniendo buenas prácticas en el código, e implementar las tecnologías más modernas en el campo.
-</br></br>
+
+</br>
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
-</br></br>
-
-### Si quieres contactarme este es mi mail personal:
-MR_Serrano27@outlook.com
-
-### Si quieres ver mi perfil profesional este es mi Linked In:
-https://www.linkedin.com/in/manuel-roberto-serrano-torres-436033214/
-</br></br>
-
+</br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowMoon272&count_private=true&show_icons=true&theme=dark&locale=en" alt="SnowMoon272" /></p>
+
+</br>
+
+# Para contactarme:
+
+## 📫 Por email: MR_Serrano27@outlook.com
+
+
+<p>
+      <a href="https://www.linkedin.com/in/manuel-roberto-serrano-torres-436033214/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Manuel Serrano
+      </a>
+</p>  
+
+

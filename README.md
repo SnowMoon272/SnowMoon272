@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./bannerManu2.jpg" alt="Banner Manuel Serrano"/>
-</div>
-
 <h1 align="center">
   Hola 👋, Soy <a href="https://www.linkedin.com/in/manuel-roberto-serrano-torres-436033214/">Manuel Serrano</a>
 </h1>
